@@ -72,11 +72,11 @@ So..
 1. Install Virtualbox or any other virtualization solution of your choice
 2. Import the kali Linux OVA into Virtualbox
 3. For the labs we will use the following sample forensics images from [NIST's Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) :<br>
-   a)  Memory: xnsx<br>
-   b)  Jean: nisnsx<br>
-   c)  Jean: sbisab<br>
-   d)  Dell_laptop: cknlkmzc<br>
-   e)  Dell_laptop: mcincdc
+   a)  Memory: https://cfreds-arhive.nist.gov/mem/memory-images.rar<br>
+   b)  Jean: https://digitalcorpora.s3.amazonaws.com/corpora/drives/nps-2008-m57-jean/nps-2008-jean.E01<br>
+   c)  Jean: https://digitalcorpora.s3.amazonaws.com/corpora/drives/nps-2008-m57-jean/nps-2008-jean.E02<br>
+   d)  Dell_laptop: https://cfreds-arhive.nist.gov/images/4Dell%20Latitude%20CPi.E01<br>
+   e)  Dell_laptop: https://cfreds-arhive.nist.gov/images/4Dell%20Latitude%20CPi.E02
 
 # ⚠️ Important Notice
 
