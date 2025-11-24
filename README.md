@@ -36,9 +36,9 @@ Module 4:<br>
 🔍 Lab 4 Network Forensics<br>
 
 # Tools Covered
-Name | Command | Repository
--------|-------------|--------------
-sysinternals| | 
+Name | Command | Repository | Installation Method
+-------|-------------|--------------- | -----------
+sysinternals| | |
 NirSoft Suite|  | 
 DFIRTriage| | 
 volatility|  |
