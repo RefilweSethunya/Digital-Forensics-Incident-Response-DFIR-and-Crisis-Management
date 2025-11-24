@@ -62,5 +62,29 @@ Network Miner| |
 
 
 # Environment Setup
+A secure and properly configured environment is essential when working with the labs. All analysis should be performed inside a dedicated virtual machine to prevent accidental system compromise and ensure clean, repeatable investigations. Using platforms such as VMware, VirtualBox, or Hyper-V, the VM should be provisioned with enough CPU, memory, and storage to comfortably support the required forensic tools and workloads.
 
-# Important Notice
+Once the VM is prepared, install the necessary forensic tools( e.g Autopsy, Volatility, etc..) and ensure each tool is updated to its latest stable version.
+
+To maintain reliability, take an initial VM snapshot after setup. This baseline creates a safe restore point should the system become corrupted or behave unpredictably during analysis.
+
+So..
+1. Install Virtualbox or any other virtualization solution of your choice
+2. Import the kali Linux OVA into Virtualbox
+3. For the labs we will use the following sample forensics images from [NIST's Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) :<br>
+   a)  Memory: xnsx<br>
+   b)  Jean: nisnsx<br>
+   c)  Jean: sbisab<br>
+   d)  Dell_laptop: cknlkmzc<br>
+   e)  Dell_laptop: mcincdc
+
+# ⚠️ Important Notice
+
+As part of my Digital Forensics & Incident Response (DFIR) training, this repository may reference or analyze artifacts that are typically found in real-world incident investigations.
+Although no executables or live malware samples are hosted directly in this repository, the tools, techniques, and exercises I have documented are often used to analyze potentially harmful files.
+
+To protect yourself and your systems use a virtual machine, sandbox, or isolated lab environment.
+
+This repository is meant for educational purposes and professional growth.
+
+![Malware Safety](https://img.shields.io/badge/Safety%20Notice-Malware%20Analysis%20Content-red?logo=alert)
