@@ -13,27 +13,27 @@ The course covers core forensic principles that apply universally, while also di
 This repository is part of my broader commitment to learning out loud and includes the basic concepts and techniques usually employed in digital forensics and malware analysis. The contents are divided into the following modules:
 
 # Course Modules Covered
-Module 1:<br>
-🔍 [Lab 1 Collecting Volatile and Non-Volatile Data](DFIR-main/Module-01/Lab-01.md)<br>
-🔍 Lab 2 Automating Volatile Data Acquisition<br>
-🔍 Lab 3 System Memory Acquisition<br>
+## <img src="https://img.shields.io/badge/Module%201-Volatile%20%26%20NonVolatile%20Data-blue?style=for-the-badge" />
+🔍 **[Lab 1 Collecting Volatile and Non-Volatile Data](DFIR-main/Module-01/Lab-01.md)**<br>
+🔍 **[Lab 2 Automating Volatile Data Acquisition](DFIR-main/Module-01/Lab-02.md)**<br>
+🔍 **[Lab 3 System Memory Acquisition](DFIR-main/Module-01/Lab-03.md)**<br>
 
 Module 2:<br>
-🔍 Lab 1 Hard Drive and Media Imaging,<br>
-🔍 Lab 2 Analyzing Physical Memory,<br>
-🔍 Lab 3 Disk Investigation and Analysis,<br>
-🔍 Lab 4 Timeline Creation and Analysis<br>
+🔍 **[Lab 1 Hard Drive and Media Imaging](DFIR-main/Module-02/Lab-01.md)**<br>
+🔍 **[Lab 2 Analyzing Physical Memory](DFIR-main/Module-02/Lab-02.md)**<br>
+🔍 **[Lab 3 Disk Investigation and Analysis](DFIR-main/Module-02/Lab-03.md)**<br>
+🔍 **[Lab 4 Timeline Creation and Analysis](DFIR-main/Module-02/Lab-04.md)**<br>
 
 Module 3:<br>
-🔍 Lab 1 Data Recovery,<br>
-🔍 Lab 2 Automating Digital Forensics Analysis<br>
+🔍 **[Lab 1 Data Recovery](DFIR-main/Module-03/Lab-01.md)**<br>
+🔍 **[Lab 2 Automating Digital Forensics Analysis](DFIR-main/Module-03/Lab-02.md)**<br>
 
 Module 4:<br>
-🔍 Lab 1 File Metadata,<br>
-🔍 Lab 2 Geolocation and Metadata,<br>
-🔍 Lab 3 Email Forensics,<br>
-🔍 Lab 4 Web Server Forensics,<br>
-🔍 Lab 5 Network Forensics<br>
+🔍 **[Lab 1 File Metadata](DFIR-main/Module-04/Lab-01.md)**<br>
+🔍 **[Lab 2 Geolocation and Metadata](DFIR-main/Module-04/Lab-02.md)**<br>
+🔍 **[Lab 3 Email Forensics](DFIR-main/Module-04/Lab-03.md)**<br>
+🔍 **[Lab 4 Web Server Forensics](DFIR-main/Module-04/Lab-04.md)**<br>
+🔍 **[Lab 5 Network Forensics](DFIR-main/Module-04/Lab-05.md)**<br>
 
 # Tools Covered
 Name | Command | Repository | Installation Method
