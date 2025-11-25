@@ -14,7 +14,7 @@ This repository is part of my broader commitment to learning out loud and includ
 
 # Course Modules Covered
 Module 1:<br>
-🔍 Lab 1 Collecting Volatile and Non-Volatile Data<br>
+🔍 [Lab 1 Collecting Volatile and Non-Volatile Data](DFIR-main/Module-01/Lab-01.md)<br>
 🔍 Lab 2 Automating Volatile Data Acquisition<br>
 🔍 Lab 3 System Memory Acquisition<br>
 
