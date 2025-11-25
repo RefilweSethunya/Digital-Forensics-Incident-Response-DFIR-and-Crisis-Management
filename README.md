@@ -18,17 +18,17 @@ This repository is part of my broader commitment to learning out loud and includ
 🔍 **[Lab 2 Automating Volatile Data Acquisition](DFIR-main/Module-01/Lab-02.md)**<br>
 🔍 **[Lab 3 System Memory Acquisition](DFIR-main/Module-01/Lab-03.md)**<br>
 
-Module 2:<br>
+## <img src="https://img.shields.io/badge/Module%202-Disk%20Imaging%20%26%20Memory%20Analysis-purple?style=for-the-badge" />
 🔍 **[Lab 1 Hard Drive and Media Imaging](DFIR-main/Module-02/Lab-01.md)**<br>
 🔍 **[Lab 2 Analyzing Physical Memory](DFIR-main/Module-02/Lab-02.md)**<br>
 🔍 **[Lab 3 Disk Investigation and Analysis](DFIR-main/Module-02/Lab-03.md)**<br>
 🔍 **[Lab 4 Timeline Creation and Analysis](DFIR-main/Module-02/Lab-04.md)**<br>
 
-Module 3:<br>
+## <img src="https://img.shields.io/badge/Module%203-Data%20Recovery%20%26%20Automation-green?style=for-the-badge" />
 🔍 **[Lab 1 Data Recovery](DFIR-main/Module-03/Lab-01.md)**<br>
 🔍 **[Lab 2 Automating Digital Forensics Analysis](DFIR-main/Module-03/Lab-02.md)**<br>
 
-Module 4:<br>
+## <img src="https://img.shields.io/badge/Module%204-Metadata%20%26%20Network%20Forensics-orange?style=for-the-badge" />
 🔍 **[Lab 1 File Metadata](DFIR-main/Module-04/Lab-01.md)**<br>
 🔍 **[Lab 2 Geolocation and Metadata](DFIR-main/Module-04/Lab-02.md)**<br>
 🔍 **[Lab 3 Email Forensics](DFIR-main/Module-04/Lab-03.md)**<br>
@@ -41,8 +41,8 @@ Name | Command | Repository | Installation Method
 sysinternals| | |
 NirSoft Suite|  | 
 DFIRTriage| | 
-volatility|  |
-rip.pl|  | 
+volatility| vol.py -h | https://github.com/volatilityfoundation/volatility.git | 
+RegRipper| rip.pl -h | https://github.com/keydet89/RegRipper3.0 |
 log2timeline|  | 
 psort.py|  | 
 Timeline Explorer|  | 
