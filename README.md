@@ -33,7 +33,7 @@ Module 4:<br>
 🔍 Lab 2 Geolocation and Metadata,<br>
 🔍 Lab 3 Email Forensics,<br>
 🔍 Lab 4 Web Server Forensics,<br>
-🔍 Lab 4 Network Forensics<br>
+🔍 Lab 5 Network Forensics<br>
 
 # Tools Covered
 Name | Command | Repository | Installation Method
