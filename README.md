@@ -11,6 +11,7 @@ Digital forensics has become a foundational skillset for cybersecurity professio
 The course covers core forensic principles that apply universally, while also diving deep into platform-dependent investigation techniques for multiple operating systems (Windows, Linux, and macOS).
 
 This repository is part of my broader commitment to learning out loud and includes the basic concepts and techniques usually employed in digital forensics and malware analysis. The contents are divided into the following modules:
+<br>
 
 # Course Modules Covered
 ## <img src="https://img.shields.io/badge/Module%201-Volatile%20%26%20NonVolatile%20Data-blue?style=for-the-badge" />
@@ -34,6 +35,7 @@ This repository is part of my broader commitment to learning out loud and includ
 🔍 **[Lab 3 Email Forensics](DFIR-main/Module-04/Lab-03.md)**<br>
 🔍 **[Lab 4 Web Server Forensics](DFIR-main/Module-04/Lab-04.md)**<br>
 🔍 **[Lab 5 Network Forensics](DFIR-main/Module-04/Lab-05.md)**<br>
+<br>
 
 # Tools Covered
 Name | Command | Repository | Installation Method
@@ -60,6 +62,7 @@ Tcpdump|  |
 Wireshark|  | 
 Network Miner| | 
 
+<br>
 
 # Environment Setup
 A secure and properly configured environment is essential when working with the labs. All analysis should be performed inside a dedicated virtual machine to prevent accidental system compromise and ensure clean, repeatable investigations. Using platforms such as VMware, VirtualBox, or Hyper-V, the VM should be provisioned with enough CPU, memory, and storage to comfortably support the required forensic tools and workloads.
