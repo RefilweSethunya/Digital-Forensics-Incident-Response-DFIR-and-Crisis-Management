@@ -1,6 +1,6 @@
 # Digital Forensics Incident Response (DFIR) and Crisis Management
 
-Welcome to my documentation for Digital Forensics & Incident Response(DFIR) and Crisis Management learning — focused on digital evidence acquisition, forensic analysis, and incident investigation.
+Welcome to my documentation for Digital Forensics & Incident Response(DFIR) and Crisis Management learning. It is focused on digital evidence acquisition, forensic analysis and incident investigation.
 
 Digital forensics has become a foundational skillset for cybersecurity professionals. Today’s security landscape demands practitioners who can:
 - Collect and preserve digital evidence
@@ -83,7 +83,7 @@ So..
    c)  Jean: https://digitalcorpora.s3.amazonaws.com/corpora/drives/nps-2008-m57-jean/nps-2008-jean.E02<br>
    d)  Dell_laptop: https://cfreds-arhive.nist.gov/images/4Dell%20Latitude%20CPi.E01<br>
    e)  Dell_laptop: https://cfreds-arhive.nist.gov/images/4Dell%20Latitude%20CPi.E02
-
+<br>
 # ⚠️ Important Notice
 
 As part of my Digital Forensics & Incident Response (DFIR) training, this repository may reference or analyze artifacts that are typically found in real-world incident investigations.
