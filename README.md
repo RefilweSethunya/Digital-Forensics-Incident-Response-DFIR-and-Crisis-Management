@@ -68,11 +68,17 @@ Once the VM is prepared, install the necessary forensic tools( e.g Autopsy, Vola
 
 To maintain reliability, take an initial VM snapshot after setup. This baseline creates a safe restore point should the system become corrupted or behave unpredictably during analysis.
 
+If you prefer a pre-configured setup, you may use the ready-to-import OVA file prepared for these labs which already includes the essential forensic tools and configurations needed to begin the exercises immediately.:<br>
+
+🔗 Pre-built Kali Linux OVA (15.8GB)<br>
+MEGA Download: https://mega.nz/file/OFMHHTYS#cqW0aA4n4Q0Mr2zHba2boK3xO5AF-ZJg-x3xDMl2Ui8
+
 So..
 1. Install Virtualbox or any other virtualization solution of your choice
-2. Import the kali Linux OVA into Virtualbox
-3. For the labs we will use the following sample forensics images from [NIST's Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) :<br>
-   a)  Memory: https://cfreds-arhive.nist.gov/mem/memory-images.rar<br>
+2. Import the kali Linux OVA into Virtualbox using VirtualBox’s Import Appliance wizard
+3. Verify that the VM starts correctly, then take an initial snapshot
+4. For the labs we will use the following sample forensics images from [NIST's Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) :<br>
+   a)  Memory Image: https://cfreds-arhive.nist.gov/mem/memory-images.rar<br>
    b)  Jean: https://digitalcorpora.s3.amazonaws.com/corpora/drives/nps-2008-m57-jean/nps-2008-jean.E01<br>
    c)  Jean: https://digitalcorpora.s3.amazonaws.com/corpora/drives/nps-2008-m57-jean/nps-2008-jean.E02<br>
    d)  Dell_laptop: https://cfreds-arhive.nist.gov/images/4Dell%20Latitude%20CPi.E01<br>
