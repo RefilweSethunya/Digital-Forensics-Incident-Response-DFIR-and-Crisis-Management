@@ -84,6 +84,7 @@ So..
    d)  Dell_laptop: https://cfreds-arhive.nist.gov/images/4Dell%20Latitude%20CPi.E01<br>
    e)  Dell_laptop: https://cfreds-arhive.nist.gov/images/4Dell%20Latitude%20CPi.E02
 <br>
+
 # ⚠️ Important Notice
 
 As part of my Digital Forensics & Incident Response (DFIR) training, this repository may reference or analyze artifacts that are typically found in real-world incident investigations.
