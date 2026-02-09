@@ -40,7 +40,7 @@ This repository is part of my broader commitment to learning out loud and includ
 # Tools Covered
 Name | Command | Repository | Installation Method
 -------|-------------|--------------- | -----------
-sysinternals| | |https://learn.microsoft.com/sysinternals/
+sysinternals| | https://learn.microsoft.com/sysinternals/|
 NirSoft Suite|  | https://www.nirsoft.net/
 DFIRTriage| DFIRTriage.exe| 
 volatility| vol.py -h | https://github.com/volatilityfoundation/volatility.githttps://github.com/volatilityfoundation/volatility.git | 
