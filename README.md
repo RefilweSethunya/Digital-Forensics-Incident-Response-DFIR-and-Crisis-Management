@@ -40,27 +40,27 @@ This repository is part of my broader commitment to learning out loud and includ
 # Tools Covered
 Name | Command | Repository | Installation Method
 -------|-------------|--------------- | -----------
-sysinternals| | |
-NirSoft Suite|  | 
-DFIRTriage| | 
-volatility| vol.py -h | https://github.com/volatilityfoundation/volatility.git | 
+sysinternals| | |https://learn.microsoft.com/sysinternals/
+NirSoft Suite|  | https://www.nirsoft.net/
+DFIRTriage| DFIRTriage.exe| 
+volatility| vol.py -h | https://github.com/volatilityfoundation/volatility.githttps://github.com/volatilityfoundation/volatility.git | 
 RegRipper| rip.pl -h | https://github.com/keydet89/RegRipper3.0 |
-log2timeline|  | 
-psort.py|  | 
-Timeline Explorer|  | 
-sleuthkit|  | 
-Foremost| | 
-rifiuti|  | 
-pasco|  | 
-Autopsy|  | 
-wmd.pl|  | 
-pdfparser.py|  | 
-exiftool| | 
+log2timeline| log2timeline.py -h | https://github.com/log2timeline/plaso
+psort.py| psort.py -h | https://github.com/log2timeline/plaso
+Timeline Explorer| TimelineExplorer.exe | 
+sleuthkit| fls -h | https://github.com/sleuthkit/sleuthkit
+Foremost| foremost -h| https://github.com/korczis/foremost
+rifiuti| rifiuti -h | https://github.com/abelcheung/rifiuti2
+pasco| pasco -h | 
+Autopsy| autopsy | https://www.sleuthkit.org/autopsy/
+wmd.pl| wmd.pl -h | https://github.com/williballenthin/wmd
+pdfparser.py| pdfparser.py -h | https://github.com/DidierStevens/DidierStevensSuite
+exiftool| exiftool -h| https://exiftool.org/
 Forensically|  | 
 network tools|  | 
-Tcpdump|  | 
-Wireshark|  | 
-Network Miner| | 
+Tcpdump| tcpdump -h | https://www.tcpdump.org/
+Wireshark| wireshark |https://www.wireshark.org/ 
+Network Miner|NetworkMiner.exe | 
 
 <br>
 
